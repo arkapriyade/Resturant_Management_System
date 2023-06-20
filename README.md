@@ -12,6 +12,8 @@
  * step 1:first user have to download  Rms_DB_Export and crate the database setup and setup all the table in the database.
  * step 2:user have to fill the details of mysql database in DB_Setup file.
  * step 3:Now u can save and  use Resturant Management system.py file.
+   
+<hr>
 
 # Flow Chart
 <p align="center"><img src="https://github.com/arkapriyade/Resturent_Management_System/assets/63455000/c9ff7b18-2fca-41e6-9e45-fefc0e88c8c5" width = 60% ></p>
