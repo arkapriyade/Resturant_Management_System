@@ -14,7 +14,7 @@
  * step 3:Now u can save and  use Resturant Management system.py file.
 
 # Flow Chart
-<p align="center"><img src="https://github.com/arkapriyade/Resturent_Management_System/assets/63455000/c9ff7b18-2fca-41e6-9e45-fefc0e88c8c5" width = 40% ></p>
+<p align="center"><img src="https://github.com/arkapriyade/Resturent_Management_System/assets/63455000/c9ff7b18-2fca-41e6-9e45-fefc0e88c8c5" width = 60% ></p>
    
 ## A sneak peek into what we have here🙈 :
 
